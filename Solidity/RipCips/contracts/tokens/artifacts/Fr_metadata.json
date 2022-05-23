@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/tokens/FredoCoin.sol": "Fr"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/tokens/FredoCoin.sol": {
+			"keccak256": "0x97445819cab83d9d7b6d09098827ce8ef0fdd81aba5e833ad2b4c2504240f3bf",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://1d2ecf1b928a6b0dc2782169dfd946cf05955dca6539899e97b461e7b218c4fe",
+				"dweb:/ipfs/QmQBAvLw5pMCm4eMNKdiGqPmeroZ9pdZxegrawvo12arAc"
+			]
+		}
+	},
+	"version": 1
+}

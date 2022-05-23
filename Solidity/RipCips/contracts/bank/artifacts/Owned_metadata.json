@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/bank/fredoLib.sol": "Owned"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/bank/fredoLib.sol": {
+			"keccak256": "0x2f9680343649d1f9cc784501e3ca1a961a5bd82eaac6ddfd4d610db5a4cc2002",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://c2884ec4e1e7f2ace97929d0e4b4ddedd2f827787bab2abe574f36179ea7f02f",
+				"dweb:/ipfs/QmYY8M5fJRTcVMaa5tbkySAVyPz1CAEtWcqiYGM8N4YnFz"
+			]
+		}
+	},
+	"version": 1
+}

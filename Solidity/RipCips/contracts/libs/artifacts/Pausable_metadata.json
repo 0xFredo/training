@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "paused",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libs/fredoLib.sol": "Pausable"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/libs/fredoLib.sol": {
+			"keccak256": "0xf7e2ad78f017f4eabfb304a52d366619f2e0cc5ef4b724b8b1e7be2d4702be70",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://03d9c17c55b3f63886423919f47ba7a22cc8a0005cd229147daddb21079a2da4",
+				"dweb:/ipfs/QmXrPmLwrQBgzVh6Nq1U5Hp7wbUaAfX3A6uY8kpRC3Jtuz"
+			]
+		}
+	},
+	"version": 1
+}
